@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_Buoi04\ThamLam\ThamLam\bin\Debug\ThamLam.exe.config
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_Buoi04\ThamLam\ThamLam\bin\Debug\ThamLam.exe
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_Buoi04\ThamLam\ThamLam\bin\Debug\ThamLam.pdb
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_Buoi04\ThamLam\ThamLam\obj\Debug\ThamLam.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_Buoi04\ThamLam\ThamLam\obj\Debug\ThamLam.exe
+E:\LuuDuLieuSinhVien\NguyenNgocPhuQuy_Buoi04\ThamLam\ThamLam\obj\Debug\ThamLam.pdb
